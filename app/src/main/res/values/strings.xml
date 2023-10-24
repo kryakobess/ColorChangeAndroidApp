@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="available_colors">Available colors:\n1. Red\n2. Green\n3. Blue</string>
+</resources>
